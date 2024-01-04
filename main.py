@@ -256,8 +256,7 @@ USAGE = """**FOR PUBLIC CHATS**
 **__first send invite link of the chat (unnecessary if the account of string session already member of the chat)
 then send post/s link__**
 
-**Join Our Channel @Official_InstaPLUS**
-**Owner @HackerPushkar**"""
+**Join Our Channel @Official_InstaPLUS**"""
 
 
 # infinty polling
